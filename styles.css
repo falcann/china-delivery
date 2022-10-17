@@ -1,0 +1,510 @@
+
+body {
+    background-color: #78736a;
+}
+
+.newlogo {
+    position: absolute;
+    background: url(/logo.png);
+}
+
+.logo {
+    margin-top: 20px;
+    margin-left: 20px;
+    opacity: 0.8;
+}
+
+
+
+.china {
+    position: absolute;
+    margin-top: 280px;
+    margin-left: 430px;
+    font-size: 70px;
+    color:#180A0A;
+    font-family: 'Caveat', cursive;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Playfair Display', serif;
+}
+
+.first-pic {
+    display: flex;
+    justify-content: center;
+    background: url(/clothes3.webp);
+}
+
+.topdiv {
+    border: 8px double whitesmoke;
+    margin-top: 159px;
+    padding: 20px;
+    background-color: #2C3639;
+}
+
+
+.heading {
+    margin-left: 500px;
+    margin-top: 80px;
+    font-size: 50px;
+    color: #e6e0d5;
+    font-family: 'Caveat', cursive;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Playfair Display', serif;
+}
+
+.p1 {
+    font-size: 30px;
+    color: #e6e0d5;
+    margin-left: 60px;
+    font-family: 'Caveat', cursive;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Playfair Display', serif;
+}
+
+.onep {
+    margin-left: 100px;
+    margin-bottom: 80px;
+    font-family: 'Caveat', cursive;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Playfair Display', serif;
+}
+
+.prada {
+    margin-top: 160px;
+    width: 410px;
+    margin-left: 40px;
+    height: 270px;
+}
+
+.prada:hover {
+    opacity: 0.7;
+}
+
+.hm {
+    margin-top: 100px;
+    width: 410px;
+    margin-left: 40px;
+    height: 270px;
+}
+
+.hm:hover {
+    opacity: 0.7;
+}
+
+.nike {
+    margin-top: 100px;
+    width: 410px;
+    margin-left: 40px;
+    height: 270px;
+}
+
+.nike:hover {
+    opacity: 0.7;
+}
+
+.brands {
+    border: 8px double whitesmoke;
+    margin-top: 120px;
+    padding: 20px;
+    background-color: #2C3639;
+    /* margin-left: 40px;
+    margin-right: 65px; */
+}
+
+.stuff {
+    font-size: 35px;
+    color: #e6e0d5;
+    margin-left: 60px;
+    margin-top: 50px;
+    font-family: 'Caveat', cursive;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Playfair Display', serif;
+}
+
+.stuff2 {
+    font-size: 30px;
+    color: #e6e0d5;
+    margin-left: 100px;
+    font-family: 'Caveat', cursive;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Playfair Display', serif;
+}
+
+.stuff3{
+    font-size: 30px;
+    color: #e6e0d5;
+    margin-left: 100px;
+    margin-bottom: 35px;
+    font-family: 'Caveat', cursive;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Playfair Display', serif;
+}
+
+.imgbrand {
+    background: url(/prada.webp);
+    background: url(/h&m.webp);
+    background: url(/nike.webp)
+}
+
+.tovar {
+    background: url(/bearbrick.webp);
+    background: url(/playstation.webp);
+    background: url(/apple.webp);
+}
+
+.bear {
+    width: 340px;
+    height: 500px;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.bear:hover {
+    opacity: 0.7;
+}
+
+.play {
+    width: 340px;
+    height: 500px;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.play:hover {
+    opacity: 0.7;
+}
+
+.apple {
+    width: 340px;
+    height: 500px;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.apple:hover {
+    opacity: 0.7;
+}
+
+.tovar {
+    background: url(/bearbrick.webp);
+    background: url(/playstation.webp);
+    background: url(/apple.webp);
+}
+
+.assort {
+    border: 8px double whitesmoke;
+    margin-top: 120px;
+    padding: 20px;
+    background-color: #2C3639;
+}
+
+.our {
+    font-size: 34px;
+    color: #e6e0d5;
+    margin-top: 100px;
+    margin-left: 300px;
+    font-family: 'Caveat', cursive;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Playfair Display', serif;
+}
+
+.our2{
+    font-size: 30px;
+    color: #e6e0d5;
+    margin-top: 8px;
+    margin-left: 25px;
+    line-height: 2;
+    font-family: 'Caveat', cursive;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Playfair Display', serif;
+}
+
+.del{
+    background: url(/del7.webp);
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.del2 {
+    margin-top: 170px;
+}
+
+#delivery {
+    border: 8px double whitesmoke;
+    margin-top: 100px;
+    padding: 40px;
+    background-color: #2C3639;
+}
+
+.etaps {
+    font-size: 34px;
+    color: #e6e0d5;
+    margin-top: 40px;
+    margin-left: 50px;
+    font-family: 'Caveat', cursive;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Playfair Display', serif;
+}
+
+.list {
+    font-size: 25px;
+    color: #e6e0d5;
+    margin-top: 15px;
+    margin-left: 15px;
+    font-family: 'Caveat', cursive;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Playfair Display', serif;
+}
+
+hr {
+    background-color: #e6e0d5;
+    margin-top: 100px;
+}
+
+#questions {
+    border: 8px double whitesmoke;
+    margin-top: 100px;
+    padding: 50px;
+    background-color: #2C3639;
+}
+
+.que {
+    font-size: 30px;
+    color: #e6e0d5;
+    margin-top: 50px;
+    margin-left: 25px;
+    font-family: 'Caveat', cursive;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Playfair Display', serif;
+}
+
+.hard {
+    font-size: 25px;
+    padding: 20px;
+}
+
+.answer {
+    font-size: 30px;
+    color: #e6e0d5;
+    margin-top: 100px;
+    margin-left: 120px;
+    font-family: 'Caveat', cursive;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Playfair Display', serif;
+}
+
+.good {
+    font-size: 40px;
+    color: #e6e0d5;
+    margin-left: 500px;
+    margin-top: 50px;
+    font-family: 'Caveat', cursive;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Playfair Display', serif;
+}
+
+#contacts {
+    background-color:#e6e0d5;
+    width: 1380px;
+    padding: 30px;
+    margin-top: 100px;
+}
+
+.link {
+    padding: 130px;
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+}
+.huy {
+    list-style-type: none;
+}
+
+.channel {
+    margin-left: -80px;
+    margin-top: 100px;
+}
+
+.telega {
+    margin-left: 400px;
+    margin-top: 100px;
+}
+.mail {
+    margin-left: 900px;
+}
+
+
+@media (max-width: 400px) {
+    .top-new {
+        object-fit: cover;
+    }
+    .logo {
+        height: 50px;
+        width: 100px;
+    }
+
+    .zaeb {
+        position: absolute;
+        margin-left: 2px;
+    }
+
+    .china {
+        margin-left: 15px;
+        font-size: 40px;
+        margin-top: 450px;
+    }
+
+    .topdiv {
+        margin-top: 80px;
+    }
+
+    .heading {
+        margin-left: 40px;
+        font-size: 30px;
+    }
+
+    .p1 {
+        font-size: 20px;
+        margin-left: 15px;
+    }
+
+    .prada {
+        margin-top: 140px;
+        margin-left: 10px;
+        width: 350px;
+    }
+    .hm {
+        margin-top: 35px;
+        margin-left: 10px;
+        width: 350px;
+    }
+    .nike {
+        margin-top: 35px;
+        margin-left: 10px;
+        width: 350px;
+    }
+
+    .brands {
+        margin-top: 50px;
+    }
+    .stuff {
+        font-size: 30px;
+        margin-left: 12px;
+    }
+    .stuff2 {
+        font-size: 20px;
+        margin-left: 10px;
+    }
+    .stuff3 {
+        font-size: 20px;
+        margin-left: 10px;
+    }
+
+    .bear {
+        margin-top: 140px;
+        margin-left: 10px;
+        width: 350px;
+    }
+    .play {
+        margin-top: 35px;
+        margin-left: 10px;
+        width: 350px;
+    }
+    .apple {
+        margin-top: 35px;
+        margin-left: 10px;
+        width: 350px;
+    }
+
+    .assort {
+        margin-top: 50px;
+    }
+    .our {
+        font-size: 30px;
+        margin-left: 5px;
+        margin-top: 20px;
+    }
+    .our2 {
+        font-size: 20px;
+        margin-left: 5px;
+    }
+
+    .del2 {
+        margin-top: 120px;
+        width: 330px;
+        height: 250px;
+    }
+
+    #delivery {
+        margin-top: 50px;
+    }
+    .etaps {
+        font-size: 30px;
+        margin-left: 5px;
+        margin-top: 20px;
+    }
+    .list {
+        font-size: 20px;
+        margin-left: 3px;
+    }
+
+    .que {
+        font-size: 30px;
+        margin-left: 5px;
+        margin-top: 20px;
+    }
+    .hard {
+        font-size: 20px;
+        margin-left: 3px;
+    }
+
+    .answer {
+        font-size: 25px;
+        margin-left: 10px;
+        margin-top: 120px;
+    }
+    .good {
+        font-size: 35px;
+        margin-left: 25px;
+        margin-top: 80px;
+    }
+
+    #contacts {
+        margin-top: 80px;
+        width: 315px;
+    }
+
+    
+    .link {
+        font-size: 10px;
+        padding: 1px;
+    }
+
+    .channel {
+        font-size: 20px;
+        margin-left: -20px;
+    }
+    .telega {
+        font-size: 20px;
+        margin-left: 20px;
+        margin-top: 100px;
+    }
+    .mail {
+        font-size: 20px;
+        margin-left: 20px;
+    }
+
+}
