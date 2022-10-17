@@ -235,6 +235,8 @@ font-family: 'Playfair Display', serif;
 
 .del2 {
     margin-top: 170px;
+    width: 100%;
+    height: auto;
 }
 
 #delivery {
@@ -347,7 +349,7 @@ font-family: 'Playfair Display', serif;
 }
 
 
-@media all and (max-width: 500px) {
+@media all and (max-width: 640px) {
     .top-new {
         object-fit: cover;
     }
