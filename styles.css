@@ -347,7 +347,7 @@ font-family: 'Playfair Display', serif;
 }
 
 
-@media all and (min-width: 500px) {
+@media all and (max-width: 500px) {
     .top-new {
         object-fit: cover;
     }
