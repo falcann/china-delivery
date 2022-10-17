@@ -1,6 +1,8 @@
 
 body {
     background-color: #78736a;
+    max-width: 1400px;
+    margin: 0 auto;
 }
 
 .newlogo {
@@ -43,7 +45,7 @@ font-family: 'Playfair Display', serif;
 
 
 .heading {
-    margin-left: 500px;
+    text-align: center;
     margin-top: 80px;
     font-size: 50px;
     color: #e6e0d5;
