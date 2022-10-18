@@ -37,10 +37,11 @@ font-family: 'Playfair Display', serif;
 }
 
 .topdiv {
-    border: 8px double whitesmoke;
+/*     border: 8px double whitesmoke; */
     margin-top: 159px;
     padding: 20px;
-    background-color: #2C3639;
+    background-color: #59564F;
+    border-radius: 50px;
 }
 
 
@@ -108,10 +109,10 @@ font-family: 'Playfair Display', serif;
 }
 
 .brands {
-    border: 8px double whitesmoke;
     margin-top: 120px;
     padding: 20px;
-    background-color: #2C3639;
+    background-color: #59564F;
+    border-radius: 50px;
     /* margin-left: 40px;
     margin-right: 65px; */
 }
@@ -200,10 +201,10 @@ font-family: 'Playfair Display', serif;
 }
 
 .assort {
-    border: 8px double whitesmoke;
     margin-top: 120px;
     padding: 20px;
-    background-color: #2C3639;
+    background-color: #59564F;
+    border-radius: 50px;
 }
 
 .our {
@@ -242,10 +243,10 @@ font-family: 'Playfair Display', serif;
 }
 
 #delivery {
-    border: 8px double whitesmoke;
     margin-top: 100px;
     padding: 40px;
-    background-color: #2C3639;
+    background-color: #59564F;
+    border-radius: 50px;
 }
 
 .etaps {
@@ -276,10 +277,10 @@ hr {
 }
 
 #questions {
-    border: 8px double whitesmoke;
     margin-top: 100px;
     padding: 50px;
-    background-color: #2C3639;
+    background-color: #59563F;
+    border-radius: 50px;
 }
 
 .que {
