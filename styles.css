@@ -16,6 +16,10 @@ body {
     opacity: 0.8;
 }
 
+.top-new {
+    border-radius: 0px 0px 50px 50px;
+}
+
 
 
 .china {
@@ -489,7 +493,7 @@ font-family: 'Playfair Display', serif;
 
     #contacts {
         margin-top: 80px;
-        width: 315px;
+        width: 100%;
     }
 
     
