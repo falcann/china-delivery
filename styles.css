@@ -283,7 +283,7 @@ hr {
 #questions {
     margin-top: 100px;
     padding: 50px;
-    background-color: #59563F;
+    background-color: #59564F;
     border-radius: 50px;
 }
 
@@ -393,17 +393,17 @@ font-family: 'Playfair Display', serif;
     .prada {
         margin-top: 140px;
         margin-left: 10px;
-        width: 350px;
+        width: 100%;
     }
     .hm {
         margin-top: 35px;
         margin-left: 10px;
-        width: 350px;
+        width: 100%;
     }
     .nike {
         margin-top: 35px;
         margin-left: 10px;
-        width: 350px;
+        width: 100%;
     }
 
     .brands {
@@ -425,17 +425,17 @@ font-family: 'Playfair Display', serif;
     .bear {
         margin-top: 140px;
         margin-left: 10px;
-        width: 350px;
+        width: 100%;
     }
     .play {
         margin-top: 35px;
         margin-left: 10px;
-        width: 350px;
+        width: 100%;
     }
     .apple {
         margin-top: 35px;
         margin-left: 10px;
-        width: 350px;
+        width: 100%;
     }
 
     .assort {
@@ -453,8 +453,8 @@ font-family: 'Playfair Display', serif;
 
     .del2 {
         margin-top: 120px;
-        width: 330px;
-        height: 250px;
+        width: 100%;
+        height: auto;
     }
 
     #delivery {
@@ -494,6 +494,7 @@ font-family: 'Playfair Display', serif;
     #contacts {
         margin-top: 80px;
         width: 100%;
+        height: auto;
     }
 
     
